@@ -10,6 +10,7 @@ function cut() {
     document.getElementById("nametag").innerHTML = " ";
 }
 
+/*
 var $circle = $('.circle');
 
 function moveCircle(e) {
@@ -22,3 +23,5 @@ function moveCircle(e) {
 }
 
 $(window).on('mousemove', moveCircle);
+
+*/

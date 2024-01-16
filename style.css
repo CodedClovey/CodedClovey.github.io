@@ -15,14 +15,14 @@ body {
 #txt {
     z-index: 2;
     line-height: 75px;
-    color: rgb(255, 255, 255);
+    color: rgb(28, 28, 28);
     font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
-    height: 15%;
+    height: 10%;
 }
 
 footer {
-    color: rgb(255, 255, 255);
+    color: rgb(28, 28, 28);
     font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
     height: 10%;
@@ -38,7 +38,6 @@ footer {
 
 .note div {
     color: rgb(96, 96, 96);
-    background-color: rgb(201, 232, 155);
     width: 50%;
     
     text-align: center;
@@ -55,7 +54,6 @@ footer {
 
 .list div {
     
-    margin: 20px;
     transition: transform .2s;
     /*background-color: white;*/
     width: 200px;
